@@ -7,6 +7,7 @@
 **/Build/
 **/Shared/Managed/*
 **/tools/
+**/Package/
 
 # User-specific files
 *.rsuser
